@@ -51,6 +51,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Screenshot (69)](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/0f1bd5dc-b927-41f8-891b-4cbeb255e7eb)
 
 ### Name: Abbu Rehan
 ### Register Number: 23010259
