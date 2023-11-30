@@ -47,7 +47,7 @@
 
 ## Output:
 
-![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/ca6b9947-4d2d-4b67-8f4e-76cd27c720e4)
+![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/79eaa844-7a62-45c7-bcbf-e24fcee5ebc3)
 
 ### Name: Abbu Rehan
 ### Register Number: 23010259
