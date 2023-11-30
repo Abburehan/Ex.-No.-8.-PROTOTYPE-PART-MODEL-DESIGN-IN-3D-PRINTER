@@ -62,7 +62,7 @@
 ## Output:
 
 
-![Screenshot (70)](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/70ecfc65-6a4a-4e06-a3f2-14ba3a0c4cd5)
+![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/a3a219be-e4b9-46e0-a907-aa933ffa87da)
 
 
 ### Name: Abbu Rehan
