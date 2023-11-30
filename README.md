@@ -18,7 +18,6 @@
 
 ![Screenshot (61)](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/73e94e09-e42b-4a32-b530-405d80145889)
 
-
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
 ![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/5e46c3e6-b62e-4ba8-8247-3a2bb7214855)
@@ -28,7 +27,6 @@
 
 ![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/1e21dd1d-d227-4c76-b76d-a6fa748e8dad)
 
-
 ### Step 5.:- select the Scale option for design scale according to build plate area and then after click the start option and select printing option standard as shown in below figure.
 
 ![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/1f6775c2-4edb-4a40-9d64-4efffa4ed13c)
@@ -37,9 +35,7 @@
 
 ![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/c5c47459-a3a9-43b7-9744-9ef1a5074df1)
 
-
 ![image](https://github.com/Abburehan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/138849336/6630367a-c0e3-4bdd-9c8b-cb2c05135f6d)
-
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
